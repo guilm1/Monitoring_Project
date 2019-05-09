@@ -47,16 +47,16 @@ prova, trabalho, seminário, outro;
 
 Formalmente, como requisitos funcionais, a aplicação deve:
 
-**(a)** Cadastrar e permitir a edição de disciplinas;
-**(b)** Exibir a lista de disciplinas cadastradas;
-**(c)** Cadastrar e permitir a edição de tarefas;
-**(d)** Exibir a lista de tarefas cadastradas;
-**(e)** Persistir todos os dados de alguma forma;
-**(f)** Ordenar a lista de tarefas da de data de entrega mais próxima para a mais distante;
-**(g)** Exibir, para cada disciplina, a nota total nas atividades já realizadas e as faltas;
-**(h)** Notificar o usuário um dia antes da data de entrega de cada tarefa;
-**(i)** Exibir gráficos de notas categorizados por tipo de avaliação e por disciplina.
-**(j)** Fazer login de usuário pela conta Google;
+###### **(a)** Cadastrar e permitir a edição de disciplinas;
+###### **(b)** Exibir a lista de disciplinas cadastradas;
+###### **(c)** Cadastrar e permitir a edição de tarefas;
+###### **(d)** Exibir a lista de tarefas cadastradas;
+###### **(e)** Persistir todos os dados de alguma forma;
+###### **(f)** Ordenar a lista de tarefas da de data de entrega mais próxima para a mais distante;
+###### **(g)** Exibir, para cada disciplina, a nota total nas atividades já realizadas e as faltas;
+###### **(h)** Notificar o usuário um dia antes da data de entrega de cada tarefa;
+###### **(i)** Exibir gráficos de notas categorizados por tipo de avaliação e por disciplina.
+###### **(j)** Fazer login de usuário pela conta Google;
 
 O trabalho é dividido em três etapas, sendo que a etapa 1 compreende o atendimento dos
 requisitos (a) e (b); a etapa 2 compreende do atendimento dos requisitos (c), (d), (e) e (f)
