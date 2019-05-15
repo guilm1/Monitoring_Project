@@ -3,4 +3,16 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="grayLight">#fafafa</color>
+    <color name="orangeWeak">#33c2976b</color>
+    <color name="black">#0d0c0c</color>
+    <color name="orangeStrong">#66c2976b</color>
+    <color name="transparente">#00c2976b</color>
+    <color name="weakWhite">#59ffffff</color>
+    <color name="Red">#9f0303</color>
+    <color name="green">#146c08</color>
+    <color name="green2">#a6cb2c</color>
+    <color name="strongRed">#ec0000</color>
+    <color name="gray">#805a35</color>
+    <color name="orange">#ebae5e</color>
 </resources>
